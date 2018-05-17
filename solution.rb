@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-erb :ParoImpar
+erb :index
 end
